@@ -23,4 +23,4 @@ Welcome to the **AI-Powered Competitive Market Analysis** tool. This application
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ai-competitive-market-analysis.git
+   git clone https://github.com/Raghavendra-varma-0909/Ai-agent.git
